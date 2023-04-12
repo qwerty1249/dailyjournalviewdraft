@@ -1,6 +1,6 @@
 const baseUrl =
   process.env.NODE_ENV !== "production"
     ? "http://localhost:3000"
-    : "https://main--astonishing-salmiakki-44f443.netlify.app";
+    : "https://dailyjournalviewdraft.vercel.app/login";
 
 module.exports = baseUrl;
